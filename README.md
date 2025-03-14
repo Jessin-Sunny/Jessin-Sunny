@@ -1,7 +1,7 @@
 ## Hi there 👋
 # My GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessin-Sunny&layout=pie)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessin-Sunny&layout=compact)
 
 ## More GitHub Stats
 
