@@ -1,6 +1,8 @@
 ## Hi there 👋
 # My GitHub Stats
 
+![Profile Views](https://komarev.com/ghpvc/?username=Jessin-Sunny&color=blue)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessin-Sunny&layout=compact)
 
 ## More GitHub Stats
