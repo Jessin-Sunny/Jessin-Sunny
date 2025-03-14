@@ -14,6 +14,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Hardware & Low-Level Programming:
+![Verilog](https://img.shields.io/badge/Verilog-8B0000?style=for-the-badge&logo=verilog&logoColor=white)
+![8086 Assembly](https://img.shields.io/badge/8086%20Assembly-0078D4?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM%20Programming-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+
 
 # My GitHub Stats
 
