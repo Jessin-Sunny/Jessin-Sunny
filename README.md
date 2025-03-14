@@ -19,6 +19,14 @@
 ![8086 Assembly](https://img.shields.io/badge/8086%20Assembly-0078D4?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM%20Programming-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 
+### Firebase Services:
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase Authentication](https://img.shields.io/badge/Firebase%20Auth-FF5722?style=for-the-badge&logo=firebase&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-4DB6AC?style=for-the-badge&logo=firebase&logoColor=white)
+
+
 
 # My GitHub Stats
 
