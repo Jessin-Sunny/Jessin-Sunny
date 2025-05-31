@@ -17,6 +17,7 @@
 ### Databases:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Hardware & Low-Level Programming:
 ![Verilog](https://img.shields.io/badge/Verilog-8B0000?style=for-the-badge&logo=verilog&logoColor=white)
