@@ -1,62 +1,61 @@
-## Hi there 👋
-# 💻 Tech Stack & Skills  
+# 👋 Hey, I'm Jessin Sunny
 
-### Programming Languages:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### Software Developer | Computer Science Graduate
 
-### Mobile & Web Development:
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+Building practical solutions with code, curiosity and creativity.
 
-### Databases:
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Hardware & Low-Level Programming:
-![Verilog](https://img.shields.io/badge/Verilog-8B0000?style=for-the-badge&logo=verilog&logoColor=white)
-![8086 Assembly](https://img.shields.io/badge/8086%20Assembly-0078D4?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM%20Programming-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-
-
-# My GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jessin-Sunny&color=blue)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessin-Sunny&layout=compact)
-
-## More GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jessin-Sunny&show_icons=true&theme=radical)
-
-## Profile Summary
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jessin-Sunny&theme=github)
+Computer Science and Engineering graduate from **Rajiv Gandhi Institute of Technology**, interested in backend development, application engineering and intelligent systems.
 
 ---
 
+### ⚡ Tech Stack
 
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+**Development & Databases**
 
-<!--
-**Jessin-Sunny/Jessin-Sunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Here are some ideas to get you started:
+**Exploring**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| **[WingTrace](https://github.com/Jessin-Sunny/WingTrace)** | IoT-based mosquito and pest identification using audio and image processing. |
+| **[FastTrack](https://github.com/Jessin-Sunny/FastTrack)** | Delivery route optimization using Flutter, Python and routing APIs. |
+| **[Smart Agriculture](https://github.com/Jessin-Sunny/Smart-Agriculture-Monitoring-System)** | IoT-powered agricultural monitoring and irrigation automation. |
+
+---
+
+### 📊 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jessin-Sunny&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessin-Sunny&layout=compact&hide_border=true&theme=transparent)
+
+---
+
+### 🤝 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jessin-Sunny)
+
+---
+
+<p align="center">
+  <i>Building, learning and improving — one project at a time.</i>
+</p>
